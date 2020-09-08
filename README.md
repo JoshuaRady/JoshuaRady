@@ -4,11 +4,13 @@ JMR
 Started: 9/7/2020
 
 This special repository ReadMe renders at the top of the account profile page.
+Images need to use absolute links or they will fail to render properly from the profile page, which
+seems to be treated as outside the 'namesake' repository.
 
 Copyright (C) 2020 Joshua M. Rady, All Rights Reserved
 ------------------------------------------------------------------------------------------------ -->
 
-<!-- The ReadMe section of the profile is about 904 px wide. -->
+<!-- The ReadMe section of the profile page is about 904 px wide. -->
 <img src="https://github.com/JoshuaRady/JoshuaRady/blob/master/images/ProfileHeader2.png">
 
 Hello, I'm a graduate student studying under Professor [Quinn Thomas](https://www.epics.frec.vt.edu/?page_id=67) in the [Department of Forest Resources and Environmental Conservation](http://frec.vt.edu) at [Virginia Tech](https://vt.edu).
