@@ -9,7 +9,7 @@ Copyright (C) 2020 Joshua M. Rady (Curator) All Rights Reserved
 ------------------------------------------------------------------------------------------------ -->
 
 <!-- The ReadMe section of the profile is about 904 px. -->
-<img src="images/ForestsHeader.png">
+<img src="https://github.com/JoshuaRady/JoshuaRady/blob/master/images/ProfileHeader.png">
 
 Hello, I'm a graduate student studying under Professor [Quinn Thomas](https://www.epics.frec.vt.edu/?page_id=67) in the [Department of Forest Resources and Environmental Conservation](http://frec.vt.edu) at [Virginia Tech](https://vt.edu).
 
