@@ -7,7 +7,7 @@ This special repository ReadMe renders at the top of the account profile page.
 Images need to use absolute links or they will fail to render properly from the profile page, which
 seems to be treated as outside the 'namesake' repository.
 
-Copyright (C) 2020 Joshua M. Rady, All Rights Reserved
+Copyright (C) 2022 Joshua M. Rady, All Rights Reserved
 ------------------------------------------------------------------------------------------------ -->
 
 <!-- The ReadMe section of the profile page is about 904 px wide. -->
@@ -21,4 +21,4 @@ I perform experiments using the Community Land Model, an instantiation of the [C
 
 **My current projects in the FATES model include:**
 * Developing a loblolly pine plant functional type.
-* Incorporating forest managment activies not present in the existing logging module.
+* Incorporating forest managment activities with the [Vegetation Managment Module](https://joshuarady.github.io/VegetationManagement/).
